@@ -1,0 +1,10 @@
+	Niveles de permisos en archivos.
+	
+Existen tres tipos de permisos para los usuarios no propietarios de los archivos. 
+
+	Lectura: Que tiene el permisos sobre un archivo sobre leerlo, pero no puede modificarlo ni borrarlo.
+	
+	Escritura: Quien tiene permisos para modificar o borrar el archivo, (tambien crear subcarpetas si de esta se tratará)
+	
+	Ejecución:  Si se trata de un fichero binario quien posea este permiso podrá ejecutarlo. 
+	
